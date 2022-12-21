@@ -31,7 +31,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Iphone Sales Analysis
 
-#### Code : 
+#### Code : [Iphone Sales Analysis](https://github.com/saumya-2003/Analyst-Project/blob/master/Iphone%20sales%20Analysis.ipynb)
 
 #### Dataset : [Apple-Iphone-Data](https://www.kaggle.com/datasets/komalkhetlani/apple-iphone-data)
 
@@ -53,7 +53,7 @@ Python, NumPy, Pandas, Plotly
 
 ### Twiter Timeline In Stock Market Analysis
 
-#### Code : [Iphone Sales Analysis](https://github.com/saumya-2003/Analyst-Project/blob/master/Iphone%20sales%20Analysis.ipynb)
+#### Code : [Twiter Timeline in Stock Market Analysis](https://github.com/saumya-2003/Analyst-Project/blob/master/Twiter%20Stock%20Market%20Analysis.ipynb)
 
 #### Dataset : [Twiter Stock Market Data](https://statso.io/twitter-stock-market-analysis-case-study/)
 
