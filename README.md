@@ -53,7 +53,7 @@ Python, NumPy, Pandas, Plotly
 
 ### Twiter Timeline In Stock Market Analysis
 
-#### Code : 
+#### Code : [Iphone Sales Analysis](https://github.com/saumya-2003/Analyst-Project/blob/master/Iphone%20sales%20Analysis.ipynb)
 
 #### Dataset : [Twiter Stock Market Data](https://statso.io/twitter-stock-market-analysis-case-study/)
 
