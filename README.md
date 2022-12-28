@@ -15,15 +15,15 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of contents
 
-* [About](https://github.com/saumya-2003/Analyst-Project/edit/master/README.md#about-)
-* [Portfolio Project](https://github.com/saumya-2003/Analyst-Project/edit/master/README.md#portfolio-project)
+* [About](https://github.com/saumya-2003/Analyst-Project#about-)
+* [Portfolio Project](https://github.com/saumya-2003/Analyst-Project#portfolio-project)
 
-    o [Iphone Sales Analysis](https://github.com/saumya-2003/Analyst-Project/edit/master/README.md#iphone-sales-analysis)
+    o [Iphone Sales Analysis](https://github.com/saumya-2003/Analyst-Project#iphone-sales-analysis)
 
-    o [Twiter Timeline in Stock Market Analysis](https://github.com/saumya-2003/Analyst-Project/edit/master/README.md#twiter-timeline-in-stock-market-analysis)
+    o [Twiter Timeline in Stock Market Analysis](https://github.com/saumya-2003/Analyst-Project#twiter-timeline-in-stock-market-analysis)
 
 
-* [Contact](https://github.com/saumya-2003/Analyst-Project/edit/master/README.md#contact-)
+* [Contact](https://github.com/saumya-2003/Analyst-Project#contact-)
 
 ## Portfolio Project
 
