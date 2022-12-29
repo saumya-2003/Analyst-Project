@@ -46,7 +46,7 @@ Apple Iphone are top technology smartphone in the World. In this project to see 
 * Exploratory data analysis
 
 #### Skills :
-Python, NumPy, Pandas, Plotly
+Python, NumPy, Pandas, Matplotlib, Seaborn
 
 #### Result :
 10 minutes or above save for to choose which Iphone is better for people.
@@ -66,7 +66,7 @@ Python, NumPy, Pandas, Plotly
 * Exploratory data analysis
 
 #### Skills :
-Python, NumPy, Pandas, Plotly
+Python, NumPy, Pandas, Matplotlib, Seaborn
 
 #### Reason behind the project :
 To see Twiter is a Profitable company or not. And checking shares of Twiter in different time Period.
